@@ -1,7 +1,9 @@
 Hi
 good
-morning
+morning/evening
 
 
 Hi
-good evening
+good evening/morning
+
+Diff between commits practice
